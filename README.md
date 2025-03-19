@@ -1,2 +1,2 @@
-# Hello World, I´, Geovanna, Be very welcome!
+# Hello World, I´m, Geovanna, Be very welcome!
 
