@@ -12,6 +12,6 @@
 
 ## 📫 Contact  
 📩 Email: **geovanna.eduarda2003@gmail.com**  
-🔗 LinkedIn: [your-linkedin]  
+🔗 LinkedIn: [em/geovanna-silva-55744022a]  
 
 Always learning and collaborating to build a safer digital world! 🚀  
