@@ -13,7 +13,7 @@
 
 ## 🌍 Languages  
 - 🇬🇧 **English:** Intermediate  
-- 🇪🇸 **Spanish:** [Your Level]  
+- 🇪🇸 **Spanish:** Intermediate 
 
 ## 📫 Contact  
 📩 Email: **geovanna.eduarda2003@gmail.com**  
