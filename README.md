@@ -1,20 +1,17 @@
-# Hello World, I´m, Geovanna, Be very welcome!
+# 🛡️ Hello, I'm Geovanna Eduarda da Silva!  
 
-"Exploring the world of cybersecurity and technology to create secure and innovative solutions.”
-# 🛡️ Olá, eu sou Geovanna Eduarda da Silva!  
+💻 Passionate about technology, cybersecurity, and digital law.  
+🔍 Exploring the world of information security and data privacy.  
+⚖️ Interested in the intersection between technology and legislation.  
 
-💻 Apaixonada por tecnologia, cibersegurança e direito digital.  
-🔍 Explorando o mundo da segurança da informação e privacidade de dados.  
-⚖️ Interessada na interseção entre tecnologia e legislação.  
+## 🛠 Technologies & Tools  
+- 🔐 **Cybersecurity**: Linux, information security concepts, and data privacy.  
+- 📜 **Digital Law**: LGPD, GDPR, and Compliance.  
+- 💻 **Development**: Python, HTML, CSS, JavaScript, Java (basic).  
+- 📊 **Data Analysis**: Excel, Power BI.  
 
-## 🛠 Tecnologias e Ferramentas  
-- 🔐 **Cibersegurança**: Linux, conceitos de segurança da informação e privacidade de dados.  
-- 📜 **Direito Digital**: LGPD, GDPR e Compliance.  
-- 💻 **Desenvolvimento**: Python, HTML, CSS, JavaScript, Java (básico).  
-- 📊 **Análise de Dados**: Excel, Power BI.  
-
-## 📫 Contato  
+## 📫 Contact  
 📩 Email: **geovanna.eduarda2003@gmail.com**  
-🔗 LinkedIn: [seu-linkedin]  
+🔗 LinkedIn: [your-linkedin]  
 
-Sempre buscando aprender e colaborar na construção de um mundo digital mais seguro! 🚀  
+Always learning and collaborating to build a safer digital world! 🚀  
