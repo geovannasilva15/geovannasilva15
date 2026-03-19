@@ -75,3 +75,15 @@
 ---
 
 ## ✨ "Building the future with AI and technology"
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geovannasilva15&show_icons=true&theme=rose" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovannasilva15&layout=compact&theme=rose" />
+</p>
