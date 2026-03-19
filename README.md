@@ -64,10 +64,10 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/geovanna-silva-55744022a">
     <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:geovanna.eduarda2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
