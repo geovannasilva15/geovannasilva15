@@ -1,22 +1,34 @@
-# 🛡️ Hello, I'm Geovanna Eduarda da Silva!  
+# Hi, I'm Geovanna Eduarda 👋
 
-💻 **Graduated in Information Technology Management.**  
-🔍 Passionate about technology, cybersecurity, digital law, and artificial intelligence.  
-⚖️ Exploring the intersection between technology, legislation, and intelligent systems.  
+🎯 Focused on AI Engineering, Generative AI, LLMs and Software Development.
 
-## 🛠 Technologies & Tools  
-- 🔐 **Cybersecurity**: Linux, information security concepts, and data privacy.  
-- 🤖 **Artificial Intelligence**: Machine learning fundamentals, AI ethics, and automation.  
-- 📜 **Digital Law**: LGPD, GDPR, and Compliance.  
-- 💻 **Development**: Python, HTML, CSS, JavaScript, Java (basic).  
-- 📊 **Data Analysis**: Excel, Power BI.  
+I'm a technology professional with a background in IT Management and studies in Software Engineering, building projects focused on artificial intelligence, programming and digital solutions.
 
-## 🌍 Languages  
-- 🇬🇧 **English:** Intermediate  
-- 🇪🇸 **Spanish:** Intermediate 
+## 🚀 About me
+- Focused on AI Engineering and Generative AI
+- Interested in LLMs, Python and software development
+- Building projects with AI, automation and web technologies
+- Continuously improving my technical skills
 
-## 📫 Contact  
-📩 Email: **geovanna.eduarda2003@gmail.com**  
-🔗 LinkedIn: [Geovanna Silva](https://www.linkedin.com/in/geovanna-silva-55744022a/)  
+## 🧠 Tech Stack
+- Python
+- JavaScript
+- HTML
+- CSS
+- Git
+- GitHub
+- Generative AI
+- LLMs
 
-Always learning and collaborating to build a safer and smarter digital world! 🚀  
+## 📌 Featured Projects
+- AI Chatbot with Python
+- Prompt Engineering Lab
+- Web App with AI Integration
+- Data Analysis with Python
+
+## 🌍 Career Goal
+Seeking opportunities in Artificial Intelligence, AI Engineering and Software Development, with a special interest in innovative companies and big tech environments.
+
+## 📫 Contact
+- LinkedIn: [seu-linkedin]
+- Email: [seu-email]
