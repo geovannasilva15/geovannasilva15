@@ -1,5 +1,4 @@
 <h1 align="center">Geovanna Eduarda</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=24&center=true&vCenter=true&width=700&lines=AI+Engineering;Generative+AI;Large+Language+Models+(LLMs);Python+Developer;Machine+Learning" />
 </p>
