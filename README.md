@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Geovanna Eduarda 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=25&center=true&vCenter=true&width=600&lines=AI+Engineering;Generative+AI;LLMs;Python+Developer;Future+AI+Engineer" />
+</p>
+
+<p align="center">
   🚀 AI Engineering | Generative AI | LLMs | Python | Software Development
 </p>
 
@@ -9,6 +13,8 @@
   <img src="https://img.shields.io/badge/Area-Generative%20AI-ffb6c1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tech-LLMs-pink?style=for-the-badge" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=ffb6c1&height=120&section=header"/>
 
 ---
 
@@ -74,7 +80,7 @@
 
 ---
 
-## ✨ "Building the future with AI and technology"
+<h3 align="center">💖 Building the future with AI and technology 💖</h3>
 
 ---
 
@@ -87,3 +93,23 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovannasilva15&layout=compact&theme=rose" />
 </p>
+
+---
+
+## 🔥 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=geovannasilva15&theme=rose&border_radius=10" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=geovannasilva15&label=Profile%20views&color=ff69b4&style=for-the-badge" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=ffb6c1&height=120&section=footer"/>
