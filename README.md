@@ -1,150 +1,150 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&customColorList=12,14,18,20&text=GEOVANNA%20SILVA&fontColor=ffffff&fontSize=50&animation=fadeIn&stroke=ec4899&strokeWidth=1&desc=Software%20Engineering%20%E2%80%A2%20AI%20%E2%80%A2%20Digital%20Products&descSize=18&descAlignY=68" alt="Geovanna Silva — Software Engineering, AI and Digital Products" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=EC4899&center=true&vCenter=true&multiline=false&repeat=true&width=850&lines=%3E+Construindo+tecnologia+com+prop%C3%B3sito;%3E+Software%2C+dados+e+intelig%C3%AAncia+artificial;%3E+Experi%C3%AAncias+digitais+acess%C3%ADveis" alt="Apresentação animada" />
+<img src="assets/profile-banner.svg" width="100%" alt="Geovanna Eduarda da Silva — Engenharia de Software, Inteligência Artificial e Produtos Digitais" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovanna-silva-55744022a)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Explorar-EC4899?style=for-the-badge&logo=googlechrome&logoColor=white)](https://geovannasilva15.github.io/portfolio-geovanna-github/)
-[![Mini Game](https://img.shields.io/badge/Tech_Memory-Jogar-7C3AED?style=for-the-badge&logo=gamejolt&logoColor=white)](https://geovannasilva15.github.io/geovannasilva15/game/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovanna-silva-55744022a)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Visualizar-EC4899?style=flat-square&logo=googlechrome&logoColor=white)](https://geovannasilva15.github.io/portfolio-geovanna-github/)
+[![Projetos](https://img.shields.io/badge/GitHub-Explorar_projetos-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/geovannasilva15?tab=repositories)
 
 </div>
 
-## `whoami`
+## Sobre mim
 
-```yaml
-nome: Geovanna Eduarda da Silva
-formação:
-  - Gestão da Tecnologia da Informação
-  - Engenharia de Software
-foco:
-  - Inteligência Artificial
-  - Desenvolvimento de Software
-  - Produtos Digitais
-  - Acessibilidade
-missão: "Transformar problemas reais em experiências digitais úteis."
-```
+Sou **Geovanna Eduarda da Silva**, profissional de tecnologia com formação concluída em **Gestão da Tecnologia da Informação** e estudos em **Engenharia de Software**. Desenvolvo soluções que conectam software, inteligência artificial, dados, acessibilidade e experiência do usuário.
 
-Construo projetos que conectam **software, inteligência artificial, dados e experiência do usuário**. Gosto de transformar ideias em produtos funcionais, bem documentados e orientados a impacto — especialmente quando a tecnologia pode ampliar autonomia, acesso à informação e qualidade das decisões.
+Tenho interesse em criar produtos digitais que solucionem problemas reais, ampliem possibilidades e gerem impacto positivo. Valorizo código organizado, experiências intuitivas e documentação que torne cada projeto fácil de compreender.
 
-## `featured_projects`
+## Áreas de atuação
+
+| Área | Como aplico |
+|---|---|
+| **Engenharia de Software** | Planejamento, desenvolvimento e evolução de soluções digitais estruturadas. |
+| **Inteligência Artificial** | Aplicação de recursos inteligentes em produtos, automações e análise de informações. |
+| **Desenvolvimento Web** | Construção de interfaces responsivas, APIs e experiências completas para a web. |
+| **Produtos Digitais e Acessibilidade** | Criação de soluções centradas em pessoas, autonomia e impacto social. |
+
+## Projetos em destaque
+
+### Proof Before Post
+
+<img src="https://raw.githubusercontent.com/geovannasilva15/proof-before-post/main/assets/readme-project-overview.svg" width="100%" alt="Visão do projeto Proof Before Post" />
+
+Plataforma bilíngue de educação midiática que ajuda criadores de conteúdo a revisar evidências antes da publicação, mantendo a decisão editorial sob controle humano.
+
+**Tecnologias:** Next.js, React, TypeScript e Playwright.
+
+[![Repositório](https://img.shields.io/badge/Repositório-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/geovannasilva15/proof-before-post)
+[![Acessar projeto](https://img.shields.io/badge/Acessar_projeto-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://proof-before-post.vercel.app/)
+
+**Autoria:** Geovanna Eduarda da Silva e [Matheus Barcelli Marques de Lima — Matheus Marks](https://github.com/BRMARKS).
+
+---
+
+### ClariVoz
+
+<img src="https://raw.githubusercontent.com/geovannasilva15/clarivoz/main/docs/screenshots/inicio.png" width="100%" alt="Tela inicial do ClariVoz" />
+
+Tecnologia assistiva criada para facilitar o acesso à informação por meio de leitura em voz alta, simplificação de textos e recursos de acessibilidade.
+
+**Tecnologias:** Next.js, React, TypeScript, Tailwind CSS e Web Speech API.
+
+[![Repositório](https://img.shields.io/badge/Repositório-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/geovannasilva15/clarivoz)
+[![Acessar projeto](https://img.shields.io/badge/Acessar_projeto-0F766E?style=flat-square&logo=githubpages&logoColor=white)](https://geovannasilva15.github.io/clarivoz/)
+
+---
+
+### BeautyFlow AI
+
+<img src="https://raw.githubusercontent.com/geovannasilva15/beautyflow-ai-codex-ready/main/assets/readme-project-overview.svg" width="100%" alt="Visão do projeto BeautyFlow AI" />
+
+Plataforma de gestão para negócios de beleza, estética e bem-estar, reunindo agenda, clientes, serviços, campanhas, dashboard e atendimento inteligente.
+
+**Tecnologias:** Python, FastAPI, Streamlit, SQLModel e SQLite.
+
+[![Repositório](https://img.shields.io/badge/Repositório-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/geovannasilva15/beautyflow-ai-codex-ready)
+
+---
+
+### Neural Rose
+
+<img src="https://raw.githubusercontent.com/geovannasilva15/Neural-rose/main/neural-rose-ai-fornecedores/assets/banner-neural-rose.svg" width="100%" alt="Neural Rose — Inteligência Preditiva de Fornecedores" />
+
+Plataforma de análise preditiva criada para identificar riscos em fornecedores antes que eles impactem a operação.
+
+**Tecnologias:** HTML, CSS, JavaScript, Tailwind CSS e Chart.js.
+
+**Destaque:** 2º lugar no Hackathon WeHandle × PUC Campinas 2026.
+
+[![Repositório](https://img.shields.io/badge/Repositório-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/geovannasilva15/Neural-rose)
+
+## Tecnologias
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🔎 [Proof Before Post](https://github.com/geovannasilva15/proof-before-post)
+**Linguagens**
 
-Educação midiática para revisar evidências antes de publicar, preservando a decisão humana.
-
-`Next.js` `React` `TypeScript` `Playwright`
-
-[![Abrir projeto](https://img.shields.io/badge/Abrir_projeto-2563EB?style=flat-square)](https://proof-before-post.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔊 [ClariVoz](https://github.com/geovannasilva15/clarivoz)
-
-Tecnologia assistiva para ouvir, simplificar e compreender informações digitais.
-
-`Next.js` `TypeScript` `Tailwind CSS` `Web Speech`
-
-[![Abrir projeto](https://img.shields.io/badge/Abrir_projeto-0F766E?style=flat-square)](https://geovannasilva15.github.io/clarivoz/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" alt="Python" /> Python  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" alt="JavaScript" /> JavaScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" alt="TypeScript" /> TypeScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" alt="HTML" /> HTML  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" alt="CSS" /> CSS  
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🌸 [BeautyFlow AI](https://github.com/geovannasilva15/beautyflow-ai-codex-ready)
+**Frameworks e bibliotecas**
 
-Gestão inteligente de agenda, clientes, serviços, campanhas e atendimento.
-
-`Python` `FastAPI` `Streamlit` `SQLite`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" alt="React" /> React  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28" alt="Next.js" /> Next.js  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="28" alt="FastAPI" /> FastAPI  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="28" alt="Pandas" /> Pandas  
+Streamlit  
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🌹 [Neural Rose](https://github.com/geovannasilva15/Neural-rose)
+**Dados, cloud e ferramentas**
 
-Plataforma preditiva para antecipar riscos de fornecedores.
-
-`JavaScript` `Chart.js` `Analytics` `Risk Management`
-
-🏆 2º lugar — Hackathon WeHandle × PUC Campinas 2026
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="28" alt="SQLite" /> SQLite  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="28" alt="AWS" /> AWS  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" alt="Git" /> Git  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" alt="GitHub" /> GitHub  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="28" alt="Vercel" /> Vercel  
+Microsoft Excel  
 
 </td>
 </tr>
 </table>
 
-## `tech_stack`
+## Formação e desenvolvimento
+
+- **Gestão da Tecnologia da Informação:** formação concluída.
+- **Engenharia de Software:** estudos em andamento.
+- Desenvolvimento contínuo em inteligência artificial, desenvolvimento web, dados e cloud computing.
+
+## Estatísticas do GitHub
 
 <div align="center">
 
-### Core
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### Frameworks & Data
-
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=E70488)
-
-### Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=geovannasilva15&show_icons=true&hide_border=false&border_color=E5E7EB&title_color=EC4899&icon_color=8B5CF6&text_color=6B7280&bg_color=00000000&locale=pt-br" alt="Estatísticas gerais do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovannasilva15&layout=compact&hide_border=false&border_color=E5E7EB&title_color=EC4899&text_color=6B7280&bg_color=00000000&locale=pt-br" alt="Linguagens mais utilizadas" />
 
 </div>
 
-## `github_analytics`
+## Explore um pouco mais
 
-<div align="center">
+Além dos projetos, preparei um pequeno desafio de memória com tecnologias que fazem parte da minha jornada.
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=geovannasilva15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=8B5CF6&text_color=C9D1D9" alt="Estatísticas do GitHub" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovannasilva15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC4899&text_color=C9D1D9" alt="Linguagens mais utilizadas" />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=geovannasilva15&bg_color=0D1117&color=C9D1D9&line=EC4899&point=8B5CF6&area=true&hide_border=true" alt="Gráfico de atividade" />
-
-</div>
-
-## `current_status`
-
-```diff
-+ Desenvolvendo produtos digitais com impacto
-+ Aprimorando Engenharia de Software e Inteligência Artificial
-+ Explorando acessibilidade, automação e experiências centradas em pessoas
-! Aberta a conexões, colaboração e novas oportunidades
-```
+[![Jogar Tech Memory Challenge](https://img.shields.io/badge/Jogar-Tech_Memory_Challenge-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white)](https://geovannasilva15.github.io/geovannasilva15/game/)
 
 ---
 
 <div align="center">
 
-## 🎮 `bonus_level_unlocked`
-
-### Tech Memory Challenge
-
-Encontre os pares das tecnologias antes que o tempo acabe. O jogo registra movimentos, tempo e seu melhor resultado no navegador.
-
-[![Jogar agora](https://img.shields.io/badge/▶_JOGAR_AGORA-Tech_Memory_Challenge-7C3AED?style=for-the-badge&logo=javascript&logoColor=white)](https://geovannasilva15.github.io/geovannasilva15/game/)
-
-<sub>Desenvolvido com HTML, CSS e JavaScript • Responsivo • Acessível por teclado</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=110&section=footer" width="100%" alt="" />
+**Tecnologia com propósito, organização e impacto positivo.**
 
 </div>
