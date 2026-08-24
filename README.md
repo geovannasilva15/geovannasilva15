@@ -8,6 +8,9 @@
 
 </div>
 
+![Visão explicativa do projeto Portfólio de Geovanna](assets/readme-project-overview.svg)
+
+
 ## Sobre mim
 
 Sou profissional de tecnologia com formação em **Gestão da Tecnologia da Informação** e estudos em **Engenharia de Software**. Desenvolvo projetos que conectam software, inteligência artificial, análise de dados e experiência do usuário para resolver problemas reais.
