@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" width="100%" alt="Geovanna Eduarda da Silva — Tecnologia, criatividade e projetos que resolvem problemas reais" />
+<img src="assets/profile-banner.svg" width="100%" alt="Geovanna Eduarda da Silva — Analista de Inteligência Artificial, pós-graduada em IA e estudante de Engenharia de Software" />
 
 <br/>
 
@@ -10,19 +10,19 @@
 
 ## Oi, eu sou a Geovanna
 
-Minha formação é em **Gestão da Tecnologia da Informação** e hoje continuo meus estudos em **Engenharia de Software**.
+Atualmente trabalho como **Analista de Inteligência Artificial**. Sou formada em **Gestão da Tecnologia da Informação**, tenho **pós-graduação em Inteligência Artificial** e continuo meus estudos em **Engenharia de Software**.
 
-Gosto de pegar uma ideia, entender o problema por trás dela e transformar tudo em algo que as pessoas realmente consigam usar. Foi assim que comecei a criar projetos sobre acessibilidade, educação midiática, gestão de negócios e análise de riscos.
+Meu foco profissional é IA, principalmente quando ela pode sair do campo da ideia e virar uma solução útil dentro de um produto. Gosto de entender o problema, organizar as informações e construir experiências que façam sentido para quem vai utilizá-las.
 
-Ainda tenho muito para aprender — e é justamente isso que mais gosto na tecnologia. Cada projeto deste perfil representa uma etapa diferente da minha evolução.
+Foi assim que comecei a criar projetos sobre acessibilidade, educação midiática, gestão de negócios e análise de riscos. Cada projeto deste perfil mostra uma parte do que venho aprendendo e do tipo de profissional que quero continuar sendo.
 
 ## O que você vai encontrar por aqui
 
-- Aplicações web que nasceram de problemas reais.
-- Projetos de inteligência artificial com uma função clara dentro do produto.
-- Experimentos com dados, cloud e automação.
-- Interfaces pensadas para serem bonitas, simples e acessíveis.
-- Documentação do que aprendi durante o desenvolvimento.
+- Projetos de inteligência artificial aplicados a situações reais.
+- Automação, análise de informações e apoio à tomada de decisão.
+- Aplicações web que conectam IA, dados e experiência do usuário.
+- Produtos digitais voltados à acessibilidade e autonomia.
+- Documentação do raciocínio e dos aprendizados de cada projeto.
 
 ## Projetos que contam um pouco da minha trajetória
 
@@ -76,26 +76,27 @@ O Neural Rose foi criado para antecipar riscos de fornecedores e apoiar decisõe
 **Construído com:** HTML, CSS, JavaScript, Tailwind CSS e Chart.js.  
 [Ver o código](https://github.com/geovannasilva15/Neural-rose)
 
-## Tecnologias que fazem parte dos meus projetos
+## Minha base técnica
 
+**Inteligência Artificial:** aplicações de IA, IA generativa, automação, recomendação e análise de informações  
 **Linguagens:** Python, JavaScript, TypeScript, HTML e CSS  
-**Web:** React, Next.js, FastAPI e Streamlit  
+**Web e APIs:** React, Next.js, FastAPI e Streamlit  
 **Dados:** Pandas, SQLite e Microsoft Excel  
 **Cloud e ferramentas:** AWS, Git, GitHub e Vercel
 
-Não vejo essa lista como algo fechado. Ela cresce conforme cada projeto pede uma solução nova.
+Minha prioridade é aprofundar a parte de IA sem perder a visão de produto e engenharia necessária para transformar um modelo ou uma automação em algo realmente utilizável.
 
 ## Onde estou agora
 
-Atualmente, estou aprofundando meus conhecimentos em Engenharia de Software, inteligência artificial, desenvolvimento web, dados e cloud computing.
+Atualmente atuo como **Analista de IA** e sigo aprofundando meus conhecimentos em inteligência artificial, Engenharia de Software, desenvolvimento de produtos, dados e cloud computing.
 
-Meu objetivo é continuar construindo projetos completos, melhorar a qualidade do meu código e participar de oportunidades nas quais eu possa aprender, colaborar e criar soluções relevantes.
+Quero continuar crescendo na área de IA, participando de projetos em que eu possa investigar problemas, testar possibilidades, colaborar com outras pessoas e transformar tecnologia em resultados concretos.
 
 ## Um detalhe divertido
 
 No fim, deixei um pequeno jogo da memória com algumas tecnologias que fazem parte da minha jornada.
 
-[**Jogar o Tech Memory Challenge →**](https://geovannasilva15.github.io/geovannasilva15/game/)
+[**Jogar o Tech Memory Challenge →**](https://geovannasilva15.github.io/portfolio-geovanna-github/game/)
 
 ---
 
