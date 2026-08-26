@@ -4,7 +4,10 @@
 
 <br/>
 
-[LinkedIn](https://www.linkedin.com/in/geovanna-silva-55744022a) · [Meu portfólio](https://geovannasilva15.github.io/portfolio-geovanna-github/) · [Todos os projetos](https://github.com/geovannasilva15?tab=repositories)
+<a href="https://www.linkedin.com/in/geovanna-silva-55744022a"><img src="https://img.shields.io/badge/LinkedIn-Perfil_profissional-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:geovanna.eduarda2003@gmail.com"><img src="https://img.shields.io/badge/E--mail-Fale_comigo-EC4899?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="E-mail" /></a>
+<a href="https://geovannasilva15.github.io/portfolio-geovanna-github/"><img src="https://img.shields.io/badge/Portfólio-Conheça_meu_trabalho-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfólio" /></a>
+<a href="https://github.com/geovannasilva15?tab=repositories"><img src="https://img.shields.io/badge/Projetos-Ver_repositórios-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Projetos" /></a>
 
 </div>
 
@@ -103,11 +106,19 @@ Atualmente atuo como **Analista de IA** e continuo aprofundando conhecimentos em
 
 Quero crescer em projetos de IA nos quais eu possa investigar problemas, testar possibilidades, colaborar com outras pessoas e transformar tecnologia em resultados concretos.
 
-## Um detalhe divertido
+## Explore um pouco mais
 
-No fim, deixei um desafio de memória com conceitos de Inteligência Artificial que fazem parte da minha jornada.
+Além dos projetos, preparei um pequeno desafio de memória com conceitos de Inteligência Artificial que fazem parte da minha jornada.
 
-[**Jogar o AI Memory Challenge →**](https://geovannasilva15.github.io/portfolio-geovanna-github/game/)
+<div align="center">
+
+<a href="https://geovannasilva15.github.io/portfolio-geovanna-github/game/"><img src="assets/ai-memory-challenge.svg" width="100%" alt="Jogar o AI Memory Challenge" /></a>
+
+<br/>
+
+<a href="https://geovannasilva15.github.io/portfolio-geovanna-github/game/"><img src="https://img.shields.io/badge/JOGAR_AI_MEMORY_CHALLENGE-8B5CF6?style=for-the-badge&amp;logo=gamejolt&amp;logoColor=white" alt="Jogar AI Memory Challenge" /></a>
+
+</div>
 
 ---
 
