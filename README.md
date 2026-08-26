@@ -8,6 +8,8 @@
 
 </div>
 
+<img src="assets/ai-animation.svg" width="100%" alt="Fluxo animado: dados, contexto, modelos e solução" />
+
 ## Oi, eu sou a Geovanna
 
 Atualmente trabalho como **Analista de Inteligência Artificial**. Sou formada em **Gestão da Tecnologia da Informação**, tenho **pós-graduação em Inteligência Artificial** e continuo meus estudos em **Engenharia de Software**.
@@ -16,13 +18,18 @@ Meu foco profissional é IA, principalmente quando ela pode sair do campo da ide
 
 Foi assim que comecei a criar projetos sobre acessibilidade, educação midiática, gestão de negócios e análise de riscos. Cada projeto deste perfil mostra uma parte do que venho aprendendo e do tipo de profissional que quero continuar sendo.
 
-## O que você vai encontrar por aqui
+## Meu trabalho hoje
 
-- Projetos de inteligência artificial aplicados a situações reais.
-- Automação, análise de informações e apoio à tomada de decisão.
-- Aplicações web que conectam IA, dados e experiência do usuário.
-- Produtos digitais voltados à acessibilidade e autonomia.
-- Documentação do raciocínio e dos aprendizados de cada projeto.
+Como **Analista de Inteligência Artificial**, meu trabalho está concentrado em transformar possibilidades técnicas em soluções que façam sentido para o negócio e para as pessoas.
+
+| Frente | Na prática |
+|---|---|
+| **IA generativa e LLMs** | Estruturação de prompts, respostas contextualizadas e experiências com modelos de linguagem. |
+| **RAG e conhecimento** | Organização de documentos, busca semântica e recuperação de contexto para respostas mais úteis. |
+| **Automação e agentes** | Construção de fluxos que reduzem tarefas repetitivas e apoiam decisões. |
+| **Produto e experiência** | Integração da IA com interfaces, APIs, dados e necessidades reais de usuários. |
+
+Também uso este perfil para registrar estudos, protótipos e projetos que mostram minha evolução na área.
 
 ## Projetos que contam um pouco da minha trajetória
 
@@ -76,7 +83,7 @@ O Neural Rose foi criado para antecipar riscos de fornecedores e apoiar decisõe
 **Construído com:** HTML, CSS, JavaScript, Tailwind CSS e Chart.js.  
 [Ver o código](https://github.com/geovannasilva15/Neural-rose)
 
-## Minha base técnica
+## Inteligência Artificial e base técnica
 
 **Inteligência Artificial:** aplicações de IA, IA generativa, automação, recomendação e análise de informações  
 **Linguagens:** Python, JavaScript, TypeScript, HTML e CSS  
@@ -86,17 +93,21 @@ O Neural Rose foi criado para antecipar riscos de fornecedores e apoiar decisõe
 
 Minha prioridade é aprofundar a parte de IA sem perder a visão de produto e engenharia necessária para transformar um modelo ou uma automação em algo realmente utilizável.
 
-## Onde estou agora
+## Formação e próximo passo
 
-Atualmente atuo como **Analista de IA** e sigo aprofundando meus conhecimentos em inteligência artificial, Engenharia de Software, desenvolvimento de produtos, dados e cloud computing.
+- **Pós-graduação em Inteligência Artificial** — concluída.
+- **Gestão da Tecnologia da Informação** — formação concluída.
+- **Engenharia de Software** — estudos em andamento.
 
-Quero continuar crescendo na área de IA, participando de projetos em que eu possa investigar problemas, testar possibilidades, colaborar com outras pessoas e transformar tecnologia em resultados concretos.
+Atualmente atuo como **Analista de IA** e continuo aprofundando conhecimentos em LLMs, RAG, automação, desenvolvimento de produtos, dados e cloud computing.
+
+Quero crescer em projetos de IA nos quais eu possa investigar problemas, testar possibilidades, colaborar com outras pessoas e transformar tecnologia em resultados concretos.
 
 ## Um detalhe divertido
 
-No fim, deixei um pequeno jogo da memória com algumas tecnologias que fazem parte da minha jornada.
+No fim, deixei um desafio de memória com conceitos de Inteligência Artificial que fazem parte da minha jornada.
 
-[**Jogar o Tech Memory Challenge →**](https://geovannasilva15.github.io/portfolio-geovanna-github/game/)
+[**Jogar o AI Memory Challenge →**](https://geovannasilva15.github.io/portfolio-geovanna-github/game/)
 
 ---
 
