@@ -1,122 +1,114 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" width="100%" alt="Geovanna Eduarda da Silva — Analista de Inteligência Artificial, pós-graduada em IA e estudante de Engenharia de Software" />
+<img src="assets/profile-banner.svg" width="100%" alt="Geovanna Eduarda da Silva — Analista de Inteligência Artificial" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/geovanna-silva-55744022a"><img src="https://img.shields.io/badge/LinkedIn-Perfil_profissional-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:geovanna.eduarda2003@gmail.com"><img src="https://img.shields.io/badge/E--mail-Fale_comigo-EC4899?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="E-mail" /></a>
-<a href="https://geovannasilva15.github.io/portfolio-geovanna-github/"><img src="https://img.shields.io/badge/Portfólio-Conheça_meu_trabalho-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfólio" /></a>
-<a href="https://github.com/geovannasilva15?tab=repositories"><img src="https://img.shields.io/badge/Projetos-Ver_repositórios-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Projetos" /></a>
+<a href="https://www.linkedin.com/in/geovanna-silva-55744022a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:geovanna.eduarda2003@gmail.com"><img src="https://img.shields.io/badge/E--mail-343D52?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://geovannasilva15.github.io/portfolio-geovanna-github/"><img src="https://img.shields.io/badge/Portfólio-7257D9?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
 
 </div>
 
-<img src="assets/ai-animation.svg" width="100%" alt="Fluxo animado: dados, contexto, modelos e solução" />
+## Oi, eu sou a Geovanna.
 
-## Oi, eu sou a Geovanna
+Trabalho como **Analista de Inteligência Artificial** e gosto da parte em que a tecnologia deixa de ser só uma ideia interessante e começa a resolver alguma coisa de verdade.
 
-Atualmente trabalho como **Analista de Inteligência Artificial**. Sou formada em **Gestão da Tecnologia da Informação**, tenho **pós-graduação em Inteligência Artificial** e continuo meus estudos em **Engenharia de Software**.
+Sou pós-graduada em **Inteligência Artificial e Machine Learning**, formada em **Gestão da Tecnologia da Informação** e estudante de **Engenharia de Software**. No dia a dia, meu foco está em IA generativa, LLMs, RAG, automação e na construção de experiências que aproximem modelos, dados e pessoas.
 
-Meu foco profissional é IA, principalmente quando ela pode sair do campo da ideia e virar uma solução útil dentro de um produto. Gosto de entender o problema, organizar as informações e construir experiências que façam sentido para quem vai utilizá-las.
+Este GitHub não é uma vitrine de projetos perfeitos. É o registro do que venho construindo, testando e aprendendo — inclusive das ideias que mudaram de caminho durante o desenvolvimento.
 
-Foi assim que comecei a criar projetos sobre acessibilidade, educação midiática, gestão de negócios e análise de riscos. Cada projeto deste perfil mostra uma parte do que venho aprendendo e do tipo de profissional que quero continuar sendo.
+### No que estou concentrada agora
 
-## Meu trabalho hoje
+`LLMs` · `RAG` · `Python` · `IA generativa` · `Agentes` · `Automação` · `Produtos com IA`
 
-Como **Analista de Inteligência Artificial**, meu trabalho está concentrado em transformar possibilidades técnicas em soluções que façam sentido para o negócio e para as pessoas.
-
-| Frente | Na prática |
-|---|---|
-| **IA generativa e LLMs** | Estruturação de prompts, respostas contextualizadas e experiências com modelos de linguagem. |
-| **RAG e conhecimento** | Organização de documentos, busca semântica e recuperação de contexto para respostas mais úteis. |
-| **Automação e agentes** | Construção de fluxos que reduzem tarefas repetitivas e apoiam decisões. |
-| **Produto e experiência** | Integração da IA com interfaces, APIs, dados e necessidades reais de usuários. |
-
-Também uso este perfil para registrar estudos, protótipos e projetos que mostram minha evolução na área.
-
-## Projetos que contam um pouco da minha trajetória
-
-### Proof Before Post
-
-<img src="https://raw.githubusercontent.com/geovannasilva15/proof-before-post/main/assets/readme-project-overview.svg" width="100%" alt="Visão do Proof Before Post" />
-
-O Proof Before Post nasceu de uma pergunta simples: **como ajudar alguém a verificar melhor uma informação antes de publicá-la?**
-
-A plataforma conduz a análise de afirmações e fontes sem decidir pelo usuário o que é verdadeiro. Foi um projeto importante para unir tecnologia, educação midiática e responsabilidade.
-
-**Construído com:** Next.js, React, TypeScript e Playwright.  
-[Acessar o projeto](https://proof-before-post.vercel.app/) · [Ver o código](https://github.com/geovannasilva15/proof-before-post)
-
-Projeto desenvolvido por **Geovanna Eduarda da Silva** e **[Matheus Barcelli Marques de Lima — Matheus Marks](https://github.com/BRMARKS)**.
+Quero aprofundar minha atuação em projetos de IA que tenham contexto, responsabilidade e utilidade. Por isso, muitos dos meus trabalhos começam com uma pergunta real e só depois chegam à tecnologia.
 
 ---
 
-### ClariVoz
+## Quatro projetos, quatro problemas diferentes
+
+### 01 — Proof Before Post
+
+<img src="https://raw.githubusercontent.com/geovannasilva15/proof-before-post/main/assets/readme-project-overview.svg" width="100%" alt="Visão do projeto Proof Before Post" />
+
+**A pergunta:** como ajudar alguém a verificar melhor uma informação antes de publicá-la?
+
+O Proof Before Post é uma plataforma bilíngue de educação midiática. Ela organiza evidências e conduz a revisão, mas mantém a decisão editorial com a pessoa usuária. Foi o projeto em que mais pensei sobre confiança, contexto e responsabilidade ao usar tecnologia.
+
+**Next.js · React · TypeScript · Playwright**  
+[Conhecer o projeto](https://proof-before-post.vercel.app/) · [Abrir o repositório](https://github.com/geovannasilva15/proof-before-post)
+
+Desenvolvido por **Geovanna Eduarda da Silva** e **[Matheus Barcelli Marques de Lima — Matheus Marks](https://github.com/BRMARKS)**.
+
+### 02 — ClariVoz
 
 <img src="https://raw.githubusercontent.com/geovannasilva15/clarivoz/main/docs/screenshots/inicio.png" width="100%" alt="Tela inicial do ClariVoz" />
 
-Criei o ClariVoz pensando em pessoas que encontram dificuldades para ler ou compreender informações digitais. A proposta é oferecer leitura em voz alta, simplificação de textos e ajustes de acessibilidade em um único lugar.
+**A pergunta:** informação digital pode ser mais simples de acessar e compreender?
 
-É um dos projetos que melhor representa o tipo de tecnologia que quero construir: útil, inclusiva e próxima das pessoas.
+Criei o ClariVoz como uma experiência de tecnologia assistiva, reunindo leitura em voz alta, simplificação de textos e ajustes de acessibilidade. É um projeto que representa bem o que eu procuro na tecnologia: menos barreiras e mais autonomia.
 
-**Construído com:** Next.js, React, TypeScript, Tailwind CSS e Web Speech API.  
-[Acessar o projeto](https://geovannasilva15.github.io/clarivoz/) · [Ver o código](https://github.com/geovannasilva15/clarivoz)
+**Next.js · React · TypeScript · Tailwind CSS · Web Speech API**  
+[Acessar o ClariVoz](https://geovannasilva15.github.io/clarivoz/) · [Abrir o repositório](https://github.com/geovannasilva15/clarivoz)
+
+### 03 — BeautyFlow AI
+
+<img src="https://raw.githubusercontent.com/geovannasilva15/beautyflow-ai-codex-ready/main/assets/readme-project-overview.svg" width="100%" alt="Visão do projeto BeautyFlow AI" />
+
+**A pergunta:** como tornar a rotina de pequenos negócios de beleza menos fragmentada?
+
+O BeautyFlow AI reúne agenda, clientes, serviços, campanhas e informações do negócio. Nele, trabalhei a ligação entre produto, interface, API, banco de dados e funcionalidades inteligentes.
+
+**Python · FastAPI · Streamlit · SQLModel · SQLite**  
+[Abrir o repositório](https://github.com/geovannasilva15/beautyflow-ai-codex-ready)
+
+### 04 — Neural Rose
+
+<img src="https://raw.githubusercontent.com/geovannasilva15/Neural-rose/main/neural-rose-ai-fornecedores/assets/banner-neural-rose.svg" width="100%" alt="Neural Rose — inteligência preditiva para fornecedores" />
+
+**A pergunta:** é possível perceber um risco antes que ele afete a operação?
+
+A Neural Rose nasceu em um hackathon e propõe uma leitura preditiva de riscos em fornecedores para apoiar decisões preventivas. Além do aprendizado técnico, ela marcou o **2º lugar no Hackathon WeHandle × PUC Campinas 2026**, conquistado por uma equipe 100% feminina.
+
+**HTML · CSS · JavaScript · Tailwind CSS · Chart.js**  
+[Abrir o repositório](https://github.com/geovannasilva15/Neural-rose)
 
 ---
 
-### BeautyFlow AI
+## Minha base técnica
 
-<img src="https://raw.githubusercontent.com/geovannasilva15/beautyflow-ai-codex-ready/main/assets/readme-project-overview.svg" width="100%" alt="Visão do BeautyFlow AI" />
+| Eu construo com | Tenho estudado e aplicado |
+|---|---|
+| Python, JavaScript e TypeScript | LLMs, RAG e IA generativa |
+| React, Next.js, FastAPI e Streamlit | Agentes e automação de fluxos |
+| Pandas, SQLite e Excel | Dados, avaliação e contexto |
+| Git, GitHub, AWS e Vercel | Engenharia e entrega de produtos com IA |
 
-O BeautyFlow AI começou como uma ideia para facilitar a rotina de profissionais da beleza. O projeto reúne agenda, clientes, serviços, campanhas e informações do negócio em uma experiência centralizada.
+Não tento separar IA de engenharia ou de produto. Para mim, uma solução precisa funcionar tecnicamente, fazer sentido para o negócio e ser compreensível para quem vai usá-la.
 
-Durante o desenvolvimento, pude praticar a integração entre interface, API, banco de dados e funcionalidades inteligentes.
+## Além do código
 
-**Construído com:** Python, FastAPI, Streamlit, SQLModel e SQLite.  
-[Ver o código](https://github.com/geovannasilva15/beautyflow-ai-codex-ready)
+Em 2026, participei de experiências que mudaram a forma como vejo minha carreira:
+
+- conquistei o **2º lugar no Hackathon WeHandle × PUC Campinas** com a Neural Rose;
+- conquistei o **2º lugar no DevReady** com o time juninhos-comunidade;
+- participei do **Google Launchpad for Women — Gen AI Leader Edition**;
+- atuo também como **professora tech aos sábados**, uma parte da minha rotina que me lembra que compartilhar conhecimento também é uma forma de aprender.
 
 ---
 
-### Neural Rose
+## Uma pausa para jogar
 
-<img src="https://raw.githubusercontent.com/geovannasilva15/Neural-rose/main/neural-rose-ai-fornecedores/assets/banner-neural-rose.svg" width="100%" alt="Neural Rose — Inteligência Preditiva de Fornecedores" />
-
-O Neural Rose foi criado para antecipar riscos de fornecedores e apoiar decisões preventivas. Além do aprendizado técnico, esse projeto marcou uma conquista muito especial: o **2º lugar no Hackathon WeHandle × PUC Campinas 2026**.
-
-**Construído com:** HTML, CSS, JavaScript, Tailwind CSS e Chart.js.  
-[Ver o código](https://github.com/geovannasilva15/Neural-rose)
-
-## Inteligência Artificial e base técnica
-
-**Inteligência Artificial:** aplicações de IA, IA generativa, automação, recomendação e análise de informações  
-**Linguagens:** Python, JavaScript, TypeScript, HTML e CSS  
-**Web e APIs:** React, Next.js, FastAPI e Streamlit  
-**Dados:** Pandas, SQLite e Microsoft Excel  
-**Cloud e ferramentas:** AWS, Git, GitHub e Vercel
-
-Minha prioridade é aprofundar a parte de IA sem perder a visão de produto e engenharia necessária para transformar um modelo ou uma automação em algo realmente utilizável.
-
-## Formação e próximo passo
-
-- **Pós-graduação em Inteligência Artificial** — concluída.
-- **Gestão da Tecnologia da Informação** — formação concluída.
-- **Engenharia de Software** — estudos em andamento.
-
-Atualmente atuo como **Analista de IA** e continuo aprofundando conhecimentos em LLMs, RAG, automação, desenvolvimento de produtos, dados e cloud computing.
-
-Quero crescer em projetos de IA nos quais eu possa investigar problemas, testar possibilidades, colaborar com outras pessoas e transformar tecnologia em resultados concretos.
-
-## Explore um pouco mais
-
-Além dos projetos, preparei um pequeno desafio de memória com conceitos de Inteligência Artificial que fazem parte da minha jornada.
+Criei um pequeno jogo de memória com conceitos que aparecem na minha rotina em Inteligência Artificial. As cartas são simples; o desafio é encontrar os pares no menor número de movimentos.
 
 <div align="center">
 
-<a href="https://geovannasilva15.github.io/portfolio-geovanna-github/game/"><img src="assets/ai-memory-challenge.svg" width="100%" alt="Jogar o AI Memory Challenge" /></a>
+<a href="https://geovannasilva15.github.io/portfolio-geovanna-github/game/">
+  <img src="assets/ai-memory-challenge.svg" width="100%" alt="Abrir o AI Memory Challenge" />
+</a>
 
-<br/>
-
-<a href="https://geovannasilva15.github.io/portfolio-geovanna-github/game/"><img src="https://img.shields.io/badge/JOGAR_AI_MEMORY_CHALLENGE-8B5CF6?style=for-the-badge&amp;logo=gamejolt&amp;logoColor=white" alt="Jogar AI Memory Challenge" /></a>
+**[Jogar AI Memory Challenge →](https://geovannasilva15.github.io/portfolio-geovanna-github/game/)**
 
 </div>
 
@@ -124,6 +116,6 @@ Além dos projetos, preparei um pequeno desafio de memória com conceitos de Int
 
 <div align="center">
 
-Obrigada por visitar meu perfil.
+Se algum projeto daqui conversar com uma ideia sua, pode me chamar no [LinkedIn](https://www.linkedin.com/in/geovanna-silva-55744022a) ou por [e-mail](mailto:geovanna.eduarda2003@gmail.com).
 
 </div>
