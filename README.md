@@ -100,7 +100,7 @@ Sou profissional de Inteligência Artificial, formada em Gestão de TI, com pós
 
 <div align="center">
 
-<img width="90%" src="https://raw.githubusercontent.com/devbymarks/README-DUDA/main/dist/cobrinha-rosa.svg" alt="Cobrinha rosa animada percorrendo o gráfico de contribuições do GitHub" />
+<img width="90%" src="https://raw.githubusercontent.com/geovannasilva15/geovannasilva15/main/dist/cobrinha-rosa.svg" alt="Cobrinha rosa animada percorrendo o gráfico de contribuições do GitHub" />
 
 [![Estatísticas do GitHub](https://helio-github-stats.vercel.app/api?username=geovannasilva15&custom_title=GitHub+Stats&theme=merko&title_color=c2dcff&text_color=ffade1&icon_color=5d6689&ring_color=5a6b81&border_color=ffb8e1&hide_border=false&locale=pt-br&border_radius=4.5&card_width=300&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
 
