@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="120" viewBox="0 0 500 120">
+  <rect width="500" height="120" rx="8" fill="#0f172a"/>
+  <text x="250" y="70" text-anchor="middle" font-family="monospace" font-size="42" font-weight="700" fill="#FFB3DE">Hello World!</text>
+  <path d="M95 88 H405" stroke="#FFB3DE" stroke-width="2" opacity=".65"/>
+  <circle cx="82" cy="88" r="3" fill="#FFB3DE"/>
+  <circle cx="418" cy="88" r="3" fill="#FFB3DE"/>
+</svg>

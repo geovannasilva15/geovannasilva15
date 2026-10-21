@@ -13,12 +13,12 @@
 <tr>
 <td valign="middle" align="center">
 
-<img height="120" src="https://raw.githubusercontent.com/devbymarks/README-DUDA/main/onda.gif" alt="Pixel art animada" />
+<img height="120" src="https://raw.githubusercontent.com/geovannasilva15/geovannasilva15/main/onda.gif" alt="Pixel art animada" />
 
 </td>
 <td valign="middle" align="center">
 
-<img width="500" src="https://raw.githubusercontent.com/devbymarks/README-DUDA/main/hello-world.svg" alt="Hello World em rosa claro, nas cores do projeto" />
+<img width="500" src="https://raw.githubusercontent.com/geovannasilva15/geovannasilva15/main/hello-world.svg" alt="Hello World em rosa claro, nas cores do projeto" />
 
 </td>
 </tr>
