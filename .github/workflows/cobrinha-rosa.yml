@@ -29,7 +29,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: geovannasilva15
-          outputs: dist/cobrinha-rosa.svg?color_snake=%23ff69b4&color_dots=%23ebedf0,%23f9a8d4,%23f472b6,%23ec4899,%23be185d
+          outputs: dist/cobrinha-rosa.svg?color_snake=%23ff69b4&color_dots=%233b2233,%23f9a8d4,%23f472b6,%23ec4899,%23be185d
       - name: Atualizar somente a animação
         run: |
           git config user.name "github-actions[bot]"
