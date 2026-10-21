@@ -3,7 +3,7 @@
 <div align="center">
 <br/>
 
-# Geovanna Eduarda Da Silva
+# Geovanna Eduarda da Silva
 
 <h3 align="center">Artificial Intelligence | Machine Learning</h3>
 
